@@ -1,0 +1,2 @@
+saveLocation=C:\laragon\www
+gitRepositoryUrl=https://bukkenoh.backlog.com/git/U0323/drp-estate.com.git
